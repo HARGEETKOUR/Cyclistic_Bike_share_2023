@@ -34,11 +34,12 @@ The gathered data for this analysis is 2023 Cyclistics data from the data source
 1. [Data Combining](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/Data_Combining.sql)<br>
 The data from Jan 2023 to Dec 2023 has been combined together to create a table.<br>
 [Note: The data of a few months has been divided into two parts to create the table in SQL]<br>
-2. [Data Prepartion]()<br>
+2. [Data Prepartion](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/Data_Preparation.sql
+   )<br>
 The data then has been prepared to further analysis by exploring it.<br>
-3. [Data Cleaning](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/--Data%20Cleaning.sql)<br>
+4. [Data Cleaning](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/--Data%20Cleaning.sql)<br>
 A new table has been created with cleaned data.<br>
-4. [Data Analysis]()<br>
+5. [Data Analysis]()<br>
 The cleaned table is used for the analysis process.<br>
 
 
