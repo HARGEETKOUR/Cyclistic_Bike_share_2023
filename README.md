@@ -92,7 +92,7 @@ Question assigned for the **Analysis**<br>
 The cleaned data is imported into Tableau for further analysis and the resulting figures are as follows:
 ### - Types of Bike<br>
 The chart shows the different types of bikes used by riders<br>
-[Type of Bike](https://public.tableau.com/app/profile/hargeet.kour/viz/Cyclistics_Bike_Share_2023/Dashboard1)
+[Type of Bike]
 
 
 
