@@ -31,7 +31,7 @@ In light of these insights, Cyclistic's marketing director has identified a key 
 
 ### 3. PROCESS<br>
 The gathered data for this analysis is 2023 Cyclistics data from the data source and the steps are:<br>
-1. [Data Combining]()<br>
+1. [Data Combining](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/Data_Combining.sql)<br>
 The data from Jan 2023 to Dec 2023 has been combined together to create a table.<br>
 [Note: The data of a few months has been divided into two parts to create the table in SQL]<br>
 2. [Data Prepartion]()<br>
