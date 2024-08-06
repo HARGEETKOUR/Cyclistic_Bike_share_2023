@@ -36,7 +36,7 @@ The data from Jan 2023 to Dec 2023 has been combined together to create a table.
 [Note: The data of a few months has been divided into two parts to create the table in SQL]<br>
 2. [Data Prepartion]()<br>
 The data then has been prepared to further analysis by exploring it.<br>
-3. [Data Cleaning]()<br>
+3. [Data Cleaning](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/--Data%20Cleaning.sql)<br>
 A new table has been created with cleaned data.<br>
 4. [Data Analysis]()<br>
 The cleaned table is used for the analysis process.<br>
