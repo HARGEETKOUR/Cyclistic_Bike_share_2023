@@ -55,8 +55,9 @@ Ran the queries to determine the null values in each column and the following ou
 The data consists of 13 variables as follows:<br>
 | **No.**|  **Variable**       |  **Description**                                        |
 |--------|------------------   | --------------------------------------------------------|
-| 1      | ride_id             | Unique ID assigned to each ride                         |
-| 2      | rideable_type       | classic, docked, or electric                            |
+| 1      | ride_id             | Unique ID for each ride                         |
+| 2      | rideable_type       | Type of bike used for ride:
+                                 classic, docked, or electric                            |
 | 3      | started_at          | Date and time at the start of trip                      |
 | 4      | ended_at            | Date and time at the end of trip                        |
 | 5      | start_station_name  | Name of the station where the ride journey started from |
