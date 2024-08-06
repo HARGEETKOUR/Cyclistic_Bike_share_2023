@@ -92,22 +92,22 @@ Question assigned for the **Analysis**<br>
 The cleaned data is imported into Tableau for further analysis and the resulting figures are as follows:
 ##### - Types of Bike<br>
 The chart shows the different types of bikes used by riders<br>
-![Types_Of_Bikes_2023](https://github.com/user-attachments/assets/48846445-f042-43aa-8c3d-aef89f25a06b)<br>
+![Types_Of_Bikes_2023](https://github.com/user-attachments/assets/b2e7101d-cca7-453a-920b-ae9805ec9c47)<br>
 - Three types of bikes were determined:<ins>**Electric, Classic and docked**</ins><br>
 -Both Cyclistic members and casual riders tend to favor **traditional bicycles** over e-bikes.<br>
 -Casual riders also used **Docked bikes**.<br>
 ##### -Total Rides in 2023<br>
 The chart below depicts the total rides taken throughout the year 2023:<br>
-![Total_Rides_2023](https://github.com/user-attachments/assets/0d53315b-ef61-4c7b-84c9-3cc5dfb667e4)<br>
+![Total_Rides_2023](https://github.com/user-attachments/assets/745a54c1-23dc-4acd-a926-643fab2947d3)<br>
 -Cyclistic members showed a **higher level of bike usage** compared to casual riders.Cyclistic **members** are observed with the account of **2701114** rides while **casual** riders have taken **1494627** rides.<br>
 -**Cyclistic Members** contributed about **64.37%** of rides throughout the year while **casuals** only for **35.63%**.<br>
 ##### -Average Ride Length in 2023<br>
 The below-shown figure is obtained by plotting the membership type against the average total rides<br> 
-![Average_Ride_Length_2023](https://github.com/user-attachments/assets/edb33c73-41e0-4e25-9a2b-9f3494d22ab5)<br>
+![Average_Ride_Length_2023](https://github.com/user-attachments/assets/ccfa17b3-3cab-4101-9c6f-b50e01040ae6)<br>
 -Cyclistic **members** can ride their bikes for about **13.187** minutes on average whereas **casuals** have **15.527** minutes of average ride.<br>
 ##### -Weekly Rides in 2023<br>
 The observed data has been obtained by plotting total rides per week against the days of the week:<br>
-![Weekly_Rides_2023](https://github.com/user-attachments/assets/069de3a7-3116-4ad3-8ce7-e9214411f719)<br>
+![Weekly_Rides_2023](https://github.com/user-attachments/assets/351129e0-20e0-4e03-863b-b9bd05c44c6f)<br>
 -**Maximum** bike rides are most preferred on **Saturday**.<br>
 -Cyclistic **members** have taken **more rides** than casuals every day of the week.<br>
 -Cyclistic **members** have **maximum activity**(above 43k rides) during the **middle of the week**  while **casuals** ride(about 30k) maximum on **Sunday**.<br>
@@ -120,22 +120,32 @@ The observed data has been obtained by plotting total rides per week against the
 
 ##### -Weekly Average Ride Length in 2023<br>
 The visualization shown below is obtained using an average of ride length in minutes against days of the week.<br>
-![Weekly_Average_Ride_length_2023](https://github.com/user-attachments/assets/bc6a1725-5505-4ab4-affb-abf9a0cf068c)<br>
+![Weekly_Average_Ride_length_2023](https://github.com/user-attachments/assets/69343734-a1e7-4868-bc7d-82a6f57d323d)<br>
 -**Members** ride longest on **Saturday** with an average of **19.121** minutes whereas **Causals** have longest average ride of **16.460** minutes on **Saturday**<br>
 ##### -Total Rides per Month in 2023<br>
 A study of monthly rides is done based on the data below:<br>
-![Total_Rides_Per_Month_2023](https://github.com/user-attachments/assets/e367fa78-9d93-4836-9f75-e0e1bb3c19d5)
+![Total_Rides_Per_Month_2023](https://github.com/user-attachments/assets/7af0e5f3-5e89-4de3-a339-53ff51c8cc1b)<br>
 -Members have cycled more than Casuals every month throughout the year.<br>
 -**Members** are having their **maximum** trips in the month of **August(341666)** while **Casuals** are having in the month of **July(239524)**<br>
 -Both **Cyclistic members** and **casuals** have the **lowest activity** of rides in the months of **January** and **February**<br>
 ##### -Monthly Average Rides in 2023<br>
 The below graph depicts the Average ride throughout the year per month:<br>
-![Monthly_Average_Rides_2023](https://github.com/user-attachments/assets/32df5f8f-c800-485d-925e-29ff148d0e5d)<br>
--The monthly average ride duration for Cyclistic members is the highest in **April(19.38 minutes)** while for casuals riders, it is in **August(15.38)**.<br>
+![Monthly_Average_Rides_2023](https://github.com/user-attachments/assets/8591ba9a-e4c0-4040-92b9-6ec808beff03)<br>
+-The monthly average ride duration for Cyclistic members is the highest in **April(19.38 minutes)** while for casual riders, it is in **August(15.38)**.<br>
 -Based on the graph, both **cyclisitc members** and **casuals** have **avearge monthly minimum rides** during winter, that is, **December(9.53 minutes)** and **January(5.50 minutes)** respectively.<br>
 ### 5. Share<br>
-![Dashboard](https://github.com/user-attachments/assets/b17ff51f-50f5-49b4-9919-68e88fbab575)<br>
-View [Dashboard](https://public.tableau.com/app/profile/hargeet.kour/viz/Cyclistics_Bike_Share_2023/Dashboard1)
+![Dashboard](https://github.com/user-attachments/assets/6415d099-39f8-484b-ba03-680c99cd25b6)<br>
+View [Dashboard](https://public.tableau.com/app/profile/hargeet.kour/viz/Cyclistics_Bike_Share_2023/Dashboard1)<br>
+
+#### Observation:<br>
+>1. 3 types of bikes: Electric, Classic, and Docked.<br>
+>2. Maximum Total rides throughout the year are observed by Cyclistic members.<br>
+>3. Both Cyclistic members and Casuals ride maximum in Summers and minimum in Winters. This may be due to a change in weather and a decline in temperature.<br>
+>4. Both Cyclistic members and Casuals prefer Classic bikes over Electric.<br>
+>5. Weekend rides tend to be longer for both Cyclistic members and casual riders, compared to their weekday rides.<br>
+>6. Cyclistic members go on more rides than casual riders.<br>
+>7. Cyclistic members exhibit a consistent riding pattern throughout the week, whereas casual riders have a noticeable peak in activity on weekends and a decline on weekdays. This suggests that Cyclistic members may be using bicycles for practical purposes, such as commuting or errands, while casual riders may be using them primarily for recreational or leisure activities.<br>
+### 6. Act<br>
 
 
 
