@@ -21,11 +21,28 @@ In light of these insights, Cyclistic's marketing director has identified a key 
 > 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 **Task Assigned**: "How do annual members and casual riders use Cyclistic bikes differently?"<br>
-### 2. PREPARE
+### 2. PREPARE<br>
+
 **Data Source**<br>[divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)<br>
 [Note-The data has been made available by Motivate International Inc. under this [<ins>License</ins>](https://divvybikes.com/data-license-agreement)]<br>
 <br>
 **Tools used**<br>-Data Preparing, Processing and Analyzing:[Big Query](https://console.cloud.google.com/bigquery?hl=en&project=hargeet&ws=!1m10!1m4!1m3!1shargeet!2sbquxjob_68398910_1910c5ff729!3sUS!1m4!4m3!1shargeet!2sCyclistic_Bike_Share_2023!3sCyclistics_bike_share_2023_combined_data)<br>
--Data Visualization: [Tableau](https://public.tableau.com/views/Cyclistics_Bike_Share_2023/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+-Data Visualization: [Tableau](https://public.tableau.com/views/Cyclistics_Bike_Share_2023/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<br>
+
+### 3. PROCESS<br>
+The gathered data for this analysis is 2023 Cyclistics data from the data source and the steps are:<br>
+1. [Data Combining]()<br>
+The data from Jan 2023 to Dec 2023 has been combined together to create a table.<br>
+[Note: The data of a few months has been divided into two parts to create the table in SQL]<br>
+2. [Data Prepartion]()<br>
+The data then has been prepared to further analysis by exploring it.<br>
+3. [Data Cleaning]()<br>
+A new table has been created with cleaned data.<br>
+4. [Data Analysis]()<br>
+The cleaned table is used for the analysis process.<br>
+
+
+
+
 
 
