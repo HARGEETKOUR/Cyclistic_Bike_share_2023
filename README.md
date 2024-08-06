@@ -11,9 +11,21 @@ Cyclistic's marketing strategy has traditionally focused on building broad aware
 
 According to Cyclistic's user data, most users leverage the bike-sharing program for leisure activities, while approximately 30% rely on the service for their daily commute to work. Interestingly, traditional bicycles remain the most popular choice, although around 8% of users opt for the adaptive alternatives.
 
-In light of these insights, Cyclistic's marketing director has identified a key opportunity for growth: maximizing the number of annual memberships. To achieve this goal, my team and I, as junior data analysts, have been tasked with conducting an in-depth analysis of the usage patterns and behaviors of both casual riders and annual members. By uncovering the distinct characteristics and preferences of these two user groups, we will develop a targeted marketing strategy aimed at converting casual riders into loyal annual members, further solidifying Cyclistic's position as a leading bike-share company.
+In light of these insights, Cyclistic's marketing director has identified a key opportunity for growth: maximizing the number of annual memberships. To achieve this goal, my team and I, as junior data analysts, have been tasked with conducting an in-depth analysis of the usage patterns and behaviors of both casual riders and annual members. By uncovering these two user groups' distinct characteristics and preferences, we will develop a targeted marketing strategy to convert casual riders into loyal annual members, further solidifying Cyclistic's position as a leading bike-share company.
 ## 🔍ANALYSING PROCESS...**
 ### 1. ASK
-**Goal of the project**: Design marketing strategies aimed at converting casual riders into annual members by analyzing the key difference between casual riders and members and how digital media could affect their marketing tactics.<br>
-**Task Assigned**: "How do annual members and casual riders use Cyclistic bikes differently?"
+**Goal of the project**: Design marketing strategies to convert casual riders into annual members by analyzing the key difference between casual riders and members and how digital media could affect their marketing tactics.<br>
+>Questions to be answered for the goal:
+> 1.  How do annual members and casual riders use Cyclistic bikes differently?
+> 2. Why would casual riders buy Cyclistic annual memberships?
+> 3. How can Cyclistic use digital media to influence casual riders to become members?
+
+**Task Assigned**: "How do annual members and casual riders use Cyclistic bikes differently?"<br>
+### 2. PREPARE
+**Data Source**<br>[divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)<br>
+[Note-The data has been made available by Motivate International Inc. under this [<ins>License</ins>](https://divvybikes.com/data-license-agreement)]<br>
+<br>
+**Tools used**<br>-Data Preparing, Processing and Analyzing:[Big Query](https://console.cloud.google.com/bigquery?hl=en&project=hargeet&ws=!1m10!1m4!1m3!1shargeet!2sbquxjob_68398910_1910c5ff729!3sUS!1m4!4m3!1shargeet!2sCyclistic_Bike_Share_2023!3sCyclistics_bike_share_2023_combined_data)<br>
+-Data Visualization: [Tableau](https://public.tableau.com/views/Cyclistics_Bike_Share_2023/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
