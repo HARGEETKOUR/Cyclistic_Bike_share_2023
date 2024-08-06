@@ -32,18 +32,60 @@ In light of these insights, Cyclistic's marketing director has identified a key 
 ### 3. PROCESS<br>
 The gathered data for this analysis is 2023 Cyclistics data from the data source and the steps are:<br>
 1. [Data Combining](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/Data_Combining.sql)<br>
-The data from Jan 2023 to Dec 2023 has been combined together to create a table.<br>
+The data from Jan 2023 to Dec 2023 has been combined to create a table.<br>
 [Note: The data of a few months has been divided into two parts to create the table in SQL]<br>
 2. [Data Prepartion](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/Data_Preparation.sql
    )<br>
-The data then has been prepared to further analysis by exploring it.<br>
+The data then has been prepared for further analysis by exploring it.<br>
 4. [Data Cleaning](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/--Data%20Cleaning.sql)<br>
 A new table has been created with cleaned data.<br>
 5. [Data Analysis](https://github.com/HARGEETKOUR/Cyclistic_Bike_share_2023/blob/main/Data_Analysis.sql)<br>
 The cleaned table is used for the analysis process.<br>
 
+#### Data Combining<br> 
+The 12 tables from January 2023 to December 2023 were extracted and combined into a single table. The combined table consists of  5719877 rows.<br>
+#### Data Exploration<br>
+Ran the queries to determine the null values in each column and the following outputs were determined:<br>
+>1. 875716 null start station names<br>
+>2. 875848 null start station id<br>
+>3. 929202 null end station names<br>
+>4. 929343 null end station id<br>
+>5. 6990 null end lat and end lng<br>
+
+The data consists of 13 variables as follows:<br>
+| **No.**|  **Variable**       |  **Description**                                        |
+|--------|------------------   | --------------------------------------------------------|
+| 1      | ride_id             | Unique ID assigned to each ride                         |
+| 2      | rideable_type       | classic, docked, or electric                            |
+| 3      | started_at          | Date and time at the start of trip                      |
+| 4      | ended_at            | Date and time at the end of trip                        |
+| 5      | start_station_name  | Name of the station where the ride journey started from |
+| 6      | start_station_id    | ID of the station where the ride journey started from   |
+| 7      | end_station_name    | Name of the station where the ride trip ended at        |
+| 8      | end_station_id      | ID of the station where the ride trip ended at          |
+| 9      | start_lat           | Latitude of starting station                            |
+| 10     | start_lng           | Longitude of starting station                           |
+| 11     | end_lat             | Latitude of ending station                              |
+| 12     | end_lng             | Longitude of ending station                             |                            
+| 13     | member_casual       | Type of membership of each rider                        |
 
 
 
+and the **data type** of each variable is as shown below<br>
+
+![image](https://github.com/user-attachments/assets/8ea40f37-551c-4592-bf00-31bfe5bc3072)<br>
+
+#### Data Cleaning<br>
+-3 new columns were created:<br>
+>**Months**<br>
+>**Day_of_week**<br>
+>**Ride_length_in_mins**<br>
+
+-Entries with **null values are removed**<br>
+-Exclusing the **rides with duration less than a minute** or **longer than a day**<br>
+After cleaning, **4195741** rows are returned in total, means **1524136** rows were removed.<br>
+
+### 3. ANALYZE<br>
+#### Data Analyzing
 
 
