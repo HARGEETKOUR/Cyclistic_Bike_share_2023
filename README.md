@@ -86,6 +86,12 @@ and the **data type** of each variable is as shown below<br>
 After cleaning, **4195741** rows are returned in total, means **1524136** rows were removed.<br>
 
 ### 3. ANALYZE<br>
-#### Data Analyzing
+#### Data Analyzing<br>
+Question assigned for the **Analysis**<br>
+>How do annual members and casual riders use Cyclistic bikes differently?<br>
+The cleaned data is imported into Tableau for further analysis and the resulting figures are as follows:
+### - Types of Bike<br>
+The chart shows the different types of bikes used by riders(https://public.tableau.com/app/profile/hargeet.kour/viz/Cyclistics_Bike_Share_2023/Dashboard1)
+
 
 
