@@ -139,14 +139,26 @@ View [Dashboard](https://public.tableau.com/app/profile/hargeet.kour/viz/Cyclist
 
 #### Observation:<br>
 >1. 3 types of bikes: Electric, Classic, and Docked.<br>
->2. Maximum Total rides throughout the year are observed by Cyclistic members.<br>
+>2. Cyclistic members observe Maximum Total rides throughout the year.<br>
 >3. Both Cyclistic members and Casuals ride maximum in Summers and minimum in Winters. This may be due to a change in weather and a decline in temperature.<br>
 >4. Both Cyclistic members and Casuals prefer Classic bikes over Electric.<br>
 >5. Weekend rides tend to be longer for both Cyclistic members and casual riders, compared to their weekday rides.<br>
 >6. Cyclistic members go on more rides than casual riders.<br>
->7. Cyclistic members exhibit a consistent riding pattern throughout the week, whereas casual riders have a noticeable peak in activity on weekends and a decline on weekdays. This suggests that Cyclistic members may be using bicycles for practical purposes, such as commuting or errands, while casual riders may be using them primarily for recreational or leisure activities.<br>
+>7. Cyclistic members exhibit a consistent riding pattern throughout the week, whereas casual riders have a noticeable peak in activity on weekends and a decline on weekdays. This suggests that Cyclistic members may use bicycles for practical purposes, such as commuting or errands, while casual riders may use them primarily for recreational or leisure activities.<br>
 ### 6. Act<br>
+To convert casual riders to Cyclistic members, consider the following strategies:<br>
 
+1. **Personalized Subscription Plans**: Offer flexible membership plans (yearly, monthly, daily) to cater to individual preferences and needs.<br>
+
+2. **Group Membership Plans**: Provide discounted plans for friends, students, and families to encourage collective memberships and social cycling experiences.<br>
+
+3. **Seasonal Campaigns**: Launch limited-time offers, special promotions, or extended ride durations during seasonal periods to enhance the membership experience.<br>
+
+4. **Social Engagement**: Leverage digital media to share success stories, testimonials, and user-generated content, showcasing the joys of cycling and enticing casual riders to become members.<br>
+
+These strategies address various aspects of the user experience, from flexibility and rewards to community building and engagement. By implementing these approaches, you can create a more appealing and inclusive membership program that attracts casual riders and fosters a loyal member base.<br>
+## Conclusion:<br>
+To sum up, it is observed from the study that there is a difference between the pattern of using the bikes among different categories, some are used for professional work and some for their personal use. Hence, it is suggested that **Attracting and converting casual riders into Cyclistic members will result in an incline in the profit.**
 
 
 
