@@ -156,6 +156,10 @@ To convert casual riders to Cyclistic members, consider the following strategies
 
 4. **Social Engagement**: Leverage digital media to share success stories, testimonials, and user-generated content, showcasing the joys of cycling and enticing casual riders to become members.<br>
 
+5. **Offer Trail Period**: In order to attract more people, offer some trial periods for the engagement of people like 1 week or 15 days.<br>
+
+6. **Specailized packages for students and professionals**: Launch some discounted affordable packages for students and professionals to engage them in such a manner that it will not result in decline.<br>
+
 These strategies address various aspects of the user experience, from flexibility and rewards to community building and engagement. By implementing these approaches, you can create a more appealing and inclusive membership program that attracts casual riders and fosters a loyal member base.<br>
 ## Conclusion:<br>
 To sum up, it is observed from the study that there is a difference between the pattern of using the bikes among different categories, some are used for professional work and some for their personal use. Hence, it is suggested that **Attracting and converting casual riders into Cyclistic members will result in an incline in the profit.**
